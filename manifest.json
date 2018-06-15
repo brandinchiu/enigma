@@ -1,0 +1,6 @@
+{
+	"name": "Enigma Cryptograph",
+	"version": "1.0",
+	"description": "Chrome extension for generating passwords through patterns and gestures.",
+	"manifest_version": 2
+}
