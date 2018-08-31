@@ -1,6 +1,6 @@
 let page = document.getElementById('buttonDiv');
 
-const kbuttonColors = ['#3aa757', '#e8453c', '#f9bb2d', '#4688f1'];
+const kbuttonColors = ['#fff', '#3aa757', '#e8453c', '#f9bb2d', '#4688f1'];
 
 function constructOptions(kbuttonColors) {
     for(let item of kbuttonColors) {
