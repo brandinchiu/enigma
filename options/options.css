@@ -1,0 +1,11 @@
+body {
+    background-image: url("../img/cartographer.png");
+    background-repeat: repeat;
+}
+
+.content {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+}
